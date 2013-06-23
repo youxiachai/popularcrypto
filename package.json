@@ -1,0 +1,31 @@
+{
+    "main": "index.js",
+    "name": "popularcrypto",
+    "version": "0.0.1",
+    "description": "popularcrypto",
+    "author": {
+        "name": "youxiachai",
+        "mail": "youxiachai@gmail.com"
+    },
+    "homepage": "https://github.com/youxiachai/popularcrypto",
+    "dependencies": {
+
+    },
+
+    "keywords": [
+        "crypto"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/youxiachai/popularcrypto.git"
+    },
+    "engines": {
+        "node": "*"
+    },
+    "readmeFilename": "readme.md",
+    "bugs": {
+        "url": "https://github.com/youxiachai/popularcrypto/issue"
+    }
+
+}
+
